@@ -15,7 +15,7 @@ You can see the website by <a href="https://juanpablodesigner.github.io/Agenda-G
 <br>
 
 <p align="center">
-  <img alt="project preview" src="#" width="100%">
+  <img alt="project preview" src="https://github.com/JuanPabloDesigner/images-storage/assets/113949476/05af51d6-3eda-4344-baed-da0b959558db" width="100%">
 </p>
 
 ## 🚀 Techs
