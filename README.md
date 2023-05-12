@@ -1,3 +1,46 @@
-# Agenda-Geek-homepage
-Training my skills coding Agenda Geek's webiste.
-https://juanpablodesigner.github.io/Agenda-Geek-homepage/
+<h1 align="center"> Agenda Geek Homepage </h1>
+
+<p align="center">
+Training my skills coding <a href="https://www.linkedin.com/company/agendageek-org/" target="_blank">Agenda Geek's</a> webiste. <br/>
+You can see the website by <a href="https://juanpablodesigner.github.io/Agenda-Geek-homepage/" target="_blank">clicking here.</a>
+</p>
+
+<p align="center">
+  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licence">Licence</a>
+</p>
+
+<p align="center">
+  <img alt="licence" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="project preview" src="https://user-images.githubusercontent.com/113949476/222866708-0593ec18-70ba-46c2-81dd-23712291d99a.png" width="100%">
+</p>
+
+## 🚀 Techs
+
+This project was developed with the following technologies:
+
+- HTML & CSS
+- JavaScript
+- Git & Github
+- Figma
+- <a target="_blank" href="https://fontawesome.com/icons">Font Awesome</a> & <a target="_blank" href="https://icons8.com">Icons8</a>
+
+## 💻 Project
+
+This project is a brief of the Challenge “Ajude uma ONG” promoted by the communities “Jovens UX&UI” and “VagasUX” with a duration of 5 months (Jan - May 2022).
+
+- [Access the finished project. Online.](https://juanpablodesigner.github.io/Agenda-Geek-homepage/)
+
+## :memo: Licence
+
+This project is under the CC license.
+
+---
+
+💻 Made by Juan Silva, UX Designer and Dev.
