@@ -783,6 +783,9 @@ div {
     padding: 0px;
     gap: 24px;
 }
+.h5agenda-geek {
+    font-weight: 700;
+}
 .rodape-info {
     display: flex;
     align-items: flex-start;
