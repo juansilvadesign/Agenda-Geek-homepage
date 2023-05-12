@@ -11,9 +11,6 @@ You can see the website by <a href="https://juanpablodesigner.github.io/Agenda-G
   <a href="#memo-licence">Licence</a>
 </p>
 
-<p align="center">
-  <img alt="licence" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
