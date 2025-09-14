@@ -2,7 +2,7 @@
 
 <p align="center">
 Training my skills coding <a href="https://www.linkedin.com/company/agendageek-org/" target="_blank">Agenda Geek's</a> webiste. <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/Agenda-Geek-homepage/" target="_blank">clicking here.</a>
+You can see the website by <a href="https://juansilvadesign.github.io/Agenda-Geek-homepage/" target="_blank">clicking here.</a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ You can see the website by <a href="https://juanpablodesigner.github.io/Agenda-G
 <br>
 
 <p align="center">
-  <img alt="project preview" src="https://github.com/JuanPabloDesigner/images-storage/assets/113949476/05af51d6-3eda-4344-baed-da0b959558db" width="100%">
+  <img alt="project preview" src="https://github.com/juansilvadesign/images-storage/assets/113949476/05af51d6-3eda-4344-baed-da0b959558db" width="100%">
 </p>
 
 ## 🚀 Techs
@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 This project is a brief of the Challenge “Ajude uma ONG” promoted by the communities “Jovens UX&UI” and “VagasUX” with a duration of 5 months (Jan - May 2022).
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/Agenda-Geek-homepage/)
+- [Access the finished project. Online.](https://juansilvadesign.github.io/Agenda-Geek-homepage/)
 
 ## :memo: Licence
 
